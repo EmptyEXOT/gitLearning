@@ -1,3 +1,5 @@
 This is description for my first git project!
 
 This line was added via gitHub editor
+
+This line was created for pulling via 'git pull' command
